@@ -1,0 +1,10 @@
+{
+  "name": "carry-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Carry marketing site and app prototype (static, hash-routed).",
+  "scripts": {
+    "dev": "npx serve public -l 3000",
+    "build": "echo \"Static site, nothing to build\""
+  }
+}
