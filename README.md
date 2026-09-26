@@ -30,6 +30,7 @@ Or from the CLI: `npx vercel --prod`.
 
 ## Notes
 
+- `public/coin-terminal-standalone.html` is the 3D Coin Terminal, embedded on the Strategy Coin page (`#strategy`). Add `?embed` to the URL to hide the drag hint. `public/assets/coin-terminal-front@2x.png` is its loading poster.
 - `public/index.html` is a compiled bundle. Make design changes in the source design file and re-export; don't hand-edit the bundle.
 - Market, position and token data are sample values, and wallet actions are simulated. Nothing connects to a chain yet.
 - Disclaimers are placeholders pending legal review.
