@@ -1,6 +1,6 @@
 # Carry site
 
-Static, single-file build of the Carry marketing site and app prototype. All 8 pages use hash routing (`#home`, `#markets`, `#market`, `#strategy`, `#dashboard`, `#positions`, `#deposit`, `#advanced`), so no server rewrites are needed.
+Static, single-file build of the Carry marketing site and app prototype. All 8 pages use hash routing (`#home`, `#markets`, `#market`, `#strategy`, `#dashboard`, `#positions`, `#deposit`, `#advanced`), so no server rewrites are needed. `#deposit` opens the deposit modal over the dashboard.
 
 ## Run locally
 
